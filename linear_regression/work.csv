@@ -1,0 +1,210 @@
+ID,Price,Levy,Manufacturer,Model,Prod. year,Category,Leather interior,Fuel type,Engine volume,Mileage,Cylinders,Gear box type,Drive wheels
+45654403,13328,1399,LEXUS,RX 450,2010,Jeep,Yes,Hybrid,3.5,186005 km,6,Automatic,4x4
+44731507,16621,1018,CHEVROLET,Equinox,2011,Jeep,No,Petrol,3,192000 km,6,Tiptronic,4x4
+45774419,8467,-,HONDA,FIT,2006,Hatchback,No,Petrol,1.3,200000 km,4,Variator,Front
+45769185,3607,862,FORD,Escape,2011,Jeep,Yes,Hybrid,2.5,168966 km,4,Automatic,4x4
+45809263,11726,446,HONDA,FIT,2014,Hatchback,Yes,Petrol,1.3,91901 km,4,Automatic,Front
+45802912,39493,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,160931 km,4,Automatic,Front
+45656768,1803,761,TOYOTA,Prius,2010,Hatchback,Yes,Hybrid,1.8,258909 km,4,Automatic,Front
+45816158,549,751,HYUNDAI,Sonata,2013,Sedan,Yes,Petrol,2.4,216118 km,4,Automatic,Front
+45641395,1098,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,398069 km,4,Automatic,Front
+45756839,26657,-,LEXUS,RX 350,2007,Jeep,Yes,Petrol,3.5,128500 km,6,Automatic,4x4
+45621750,941,1053,MERCEDES-BENZ,E 350,2014,Sedan,Yes,Diesel,3.5,184467 km,6,Automatic,Rear
+45814819,8781,-,FORD,Transit,1999,Microbus,No,CNG,4,0 km,8,Manual,Rear
+45815568,3000,-,OPEL,Vectra,1997,Goods wagon,No,CNG,1.6,350000 km,4,Manual,Front
+45661288,1019,1055,LEXUS,RX 450,2013,Jeep,Yes,Hybrid,3.5,138038 km,6,Automatic,Front
+45732604,59464,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,76000 km,4,Automatic,Front
+45465200,549,1079,TOYOTA,CHR,2018,Jeep,Yes,Petrol,2,74146 km,4,Automatic,Front
+45772281,7683,810,HYUNDAI,Elantra,2016,Sedan,Yes,Petrol,1.8,121840 km,4,Automatic,Front
+45797221,28382,810,HYUNDAI,Elantra,2016,Sedan,Yes,Petrol,1.8,54317 km,4,Automatic,Front
+45772104,549,2386,HYUNDAI,Sonata,2006,Sedan,Yes,Petrol,3.3,295059 km,6,Automatic,Rear
+45653306,941,1850,LEXUS,RX 400,2008,Jeep,Yes,Hybrid,3.5,364523 km,6,Automatic,4x4
+45801686,18826,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,112645 km,4,Automatic,Front
+45168471,20698,586,TOYOTA,Prius,2012,Sedan,Yes,Plug-in Hybrid,1.8,187000 km,4,Automatic,Front
+45751951,17562,1249,TOYOTA,Camry,2017,Sedan,Yes,Petrol,2.5,39709 km,4,Automatic,Front
+45814106,7840,-,FORD,Transit,2001,Microbus,No,Diesel,2.0 Turbo,230000 km,4,Manual,Front
+45813492,4704,-,OPEL,Vectra,1995,Sedan,No,Petrol,1.8,0 km,4,Automatic,Front
+45782859,20385,-,MERCEDES-BENZ,E 220,2006,Sedan,Yes,Diesel,2.2 Turbo,210000 km,4,Tiptronic,Rear
+45759112,549,2455,LEXUS,GX 470,2008,Jeep,Yes,Petrol,4.7,0 km,8,Automatic,4x4
+45804684,30,-,TOYOTA,Prius,2008,Sedan,No,Hybrid,1.5,169000 km,4,Automatic,Front
+45801525,14454,583,HYUNDAI,Elantra,2011,Sedan,Yes,Petrol,1.6,158787 km,4,Automatic,Front
+45768550,12074,1537,TOYOTA,Highlander,2009,Jeep,Yes,Hybrid,3.3,420550 km,6,Automatic,4x4
+44944581,15681,1288,MERCEDES-BENZ,Vito,2007,Goods wagon,No,Diesel,2.0 Turbo,180000 km,6,Manual,Rear
+45760983,19444,915,PORSCHE,Cayenne,2014,Jeep,Yes,Diesel,3,175056 km,6,Automatic,4x4
+45790136,6899,-,BMW,X5,2000,Jeep,Yes,CNG,4.4,200000 km,8,Automatic,4x4
+45770026,125,1750,TOYOTA,Highlander,2008,Sedan,Yes,Hybrid,3.3,287274 km,6,Automatic,4x4
+45542380,24462,-,JEEP,Grand Cherokee,2007,Jeep,Yes,Diesel,3.0 Turbo,250000 km,6,Tiptronic,4x4
+45732374,23235,707,HYUNDAI,Santa FE,2011,Jeep,Yes,Diesel,2,162000 km,4,Automatic,Front
+45369569,51746,1077,TOYOTA,CHR Limited,2019,Jeep,No,Petrol,2,10200 km,4,Tiptronic,Front
+45642526,7527,1486,HONDA,FIT,2010,Hatchback,No,Hybrid,1.3,158000 km,4,Automatic,Front
+45801668,19121,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,103490 km,4,Automatic,Front
+45661296,314,1399,LEXUS,RX 450,2010,Jeep,Yes,Hybrid,3.5,382746 km,6,Automatic,4x4
+45815051,24462,751,TOYOTA,Camry,2013,Sedan,Yes,Petrol,2.4,203200 km,4,Automatic,Front
+45797488,45734,1091,HYUNDAI,H1,2016,Universal,Yes,Diesel,2.5,61057 km,4,Automatic,Front
+45667253,20165,650,VOLKSWAGEN,Jetta,2016,Sedan,Yes,Petrol,1.4 Turbo,11200 km,4,Tiptronic,Front
+45108412,21326,382,HYUNDAI,Sonata,2014,Sedan,Yes,Hybrid,2.4,141000 km,4,Tiptronic,Front
+45810322,549,1436,PORSCHE,Cayenne,2010,Jeep,Yes,Petrol,3.6,160259 km,6,Automatic,4x4
+45769564,220,1194,TOYOTA,Tacoma,2013,Jeep,Yes,Petrol,4,239342 km,6,Automatic,4x4
+45726453,15681,503,TOYOTA,Prius C,2012,Hatchback,No,Hybrid,1.5,128000 km,4,Variator,Front
+45732544,55390,1017,HYUNDAI,Santa FE,2017,Jeep,Yes,Diesel,2,100734 km,4,Automatic,Front
+45811563,12544,-,TOYOTA,Aqua,2012,Hatchback,No,Hybrid,1.5,141500 km,4,Automatic,Front
+45699930,17249,-,FORD,Escape Hybrid,2008,Jeep,No,Hybrid,2.3,147000 km,4,Variator,4x4
+45809839,34889,891,HONDA,Civic,2016,Sedan,Yes,Petrol,2,87768 km,4,Automatic,Front
+45767508,862,1104,AUDI,Q7,2015,Jeep,Yes,Petrol,3,264014 km,6,Automatic,4x4
+45802148,14583,-,RENAULT,Megane 1.5CDI,2008,Sedan,No,Diesel,1.5 Turbo,132542 km,4,Manual,Front
+45769316,392,1017,MERCEDES-BENZ,E 300,2017,Sedan,Yes,Petrol,2,1600 km,4,Automatic,Rear
+44153312,38500,639,AUDI,Q5,2014,Jeep,Yes,Petrol,2,87000 km,1,Tiptronic,4x4
+45782169,8781,-,MERCEDES-BENZ,C 180,2001,Coupe,No,Petrol,2,260000 km,4,Manual,Rear
+44316016,87112,-,MERCEDES-BENZ,GLA 250,2019,Jeep,Yes,Petrol,2.0 Turbo,5323 km,4,Tiptronic,4x4
+45641216,1411,629,NISSAN,Juke,2015,Jeep,Yes,Petrol,1.6,87112 km,4,Automatic,4x4
+45813399,392,919,BMW,535,2012,Sedan,Yes,Petrol,3,204318 km,6,Automatic,Rear
+44679525,23521,781,CHEVROLET,Cruze LT,2018,Sedan,No,Petrol,1.4 Turbo,22000 km,4,Automatic,Front
+45418626,16935,530,FORD,Fusion,2013,Sedan,No,Petrol,1.6 Turbo,83000 km,4,Tiptronic,Front
+45323316,10349,-,TOYOTA,VOXY,2007,Minivan,Yes,Petrol,2.4,170000 km,4,Automatic,Front
+45638910,7213,530,NISSAN,Juke,2013,Jeep,Yes,Petrol,1.6,312118 km,4,Automatic,Front
+45778144,5331,-,MERCEDES-BENZ,A 160,2004,Sedan,No,Petrol,1.6,130000 km,4,Tiptronic,Front
+45803923,20526,640,HYUNDAI,Tucson,2013,Jeep,Yes,Diesel,2,200279 km,4,Automatic,Front
+45803550,9722,765,HYUNDAI,Sonata,2015,Sedan,Yes,LPG,2,719847 km,4,Automatic,Front
+45802190,34657,777,HYUNDAI,H1,2014,Minivan,Yes,Diesel,2.5,154672 km,4,Automatic,Front
+45802203,36564,1091,HYUNDAI,H1,2016,Minivan,Yes,Diesel,2.5,110969 km,4,Automatic,Front
+45648175,314,779,TOYOTA,Camry,2013,Sedan,Yes,Hybrid,2.5,225510 km,4,Automatic,Front
+45786421,5488,-,TOYOTA,Vitz,2001,Hatchback,No,Petrol,1.5,210000 km,4,Manual,Front
+45802120,30063,934,HYUNDAI,H1,2015,Universal,Yes,Diesel,2.5,148105 km,4,Automatic,Front
+45809414,15800,769,CHEVROLET,Captiva,2011,Jeep,Yes,Diesel,2.2,255456 km,4,Automatic,Front
+45797480,43952,1249,HYUNDAI,H1,2017,Universal,Yes,Diesel,2.5,111643 km,4,Automatic,Front
+45732043,53154,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,84506 km,4,Automatic,Front
+45816646,14740,645,TOYOTA,Prius,2011,Hatchback,No,Hybrid,1.8,288000 km,4,Automatic,Front
+45624039,42337,-,FORD,Mustang,2016,Cabriolet,Yes,Petrol,2.3 Turbo,75000 km,4,Tiptronic,Rear
+45814804,3763,1053,MERCEDES-BENZ,ML 350,2014,Jeep,Yes,Petrol,3.5,94362 km,6,Automatic,Rear
+45787521,18189,-,TOYOTA,Prius,2012,Sedan,No,Petrol,1.8,175000 km,4,Automatic,Front
+45759890,862,2455,LEXUS,GX 470,2008,Jeep,Yes,Petrol,4.7,263190 km,8,Automatic,4x4
+45758167,220,1185,FORD,Escape,2009,Jeep,Yes,Hybrid,2.5,193614 km,4,Automatic,Front
+45648538,5645,1324,TOYOTA,Highlander,2010,Jeep,Yes,Hybrid,3.3,264877 km,6,Automatic,4x4
+45757322,7527,830,TOYOTA,Yaris,2019,Sedan,Yes,Petrol,1.5,27656 km,4,Automatic,Front
+45800993,21953,1187,HONDA,Civic,2014,Sedan,No,Hybrid,1.4,16000 km,8,Automatic,4x4
+45765301,8154,-,HONDA,Cr-v,1998,Jeep,No,Petrol,2,0 km,4,Automatic,4x4
+45771208,21953,781,TOYOTA,Camry,2012,Sedan,No,Petrol,2.5,195053 km,4,Automatic,Front
+45801684,19121,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,121362 km,4,Automatic,Front
+45732386,36065,639,HYUNDAI,Santa FE,2014,Jeep,Yes,Diesel,2,69191 km,4,Automatic,Front
+43892866,8781,1111,HONDA,FIT,2012,Hatchback,Yes,Hybrid,1.3,83000 km,4,Tiptronic,Front
+45810403,6247,760,CHEVROLET,Cruze,2010,Sedan,Yes,Petrol,1.8,40772 km,4,Automatic,Front
+45810513,16289,642,CHEVROLET,Orlando,2012,Jeep,Yes,Diesel,2,172000 km,4,Automatic,Front
+45807330,77775,1604,MERCEDES-BENZ,GL 63 AMG,2014,Jeep,Yes,Petrol,5.5,433811 km,8,Automatic,4x4
+45733554,2822,-,BMW,520 Vanos,1995,Sedan,Yes,Petrol,2,350000 km,6,Manual,Rear
+45769914,549,781,SUBARU,Forester,2012,Jeep,Yes,Petrol,2.5,148213 km,4,Automatic,4x4
+45744824,6981,1095,DAEWOO,Lacetti,2008,Sedan,Yes,Petrol,2,103246 km,4,Automatic,Front
+45792882,27284,891,HYUNDAI,Elantra,2016,Sedan,No,Petrol,2,105394 km,4,Tiptronic,Front
+45330228,32929,-,BMW,428 Sport Line,2013,Coupe,Yes,Petrol,2.0 Turbo,160000 km,4,Automatic,Rear
+45776745,18817,-,NISSAN,Patrol,1990,Jeep,No,Diesel,2.8 Turbo,333333 km,4,Manual,Rear
+45749534,4234,-,HONDA,Civic,1997,Hatchback,Yes,Petrol,1.4,0 km,4,Manual,Front
+45789555,15053,-,MERCEDES-BENZ,E 320,2004,Sedan,Yes,Petrol,3.2,214000 km,6,Tiptronic,Rear
+45797276,15458,966,HYUNDAI,Genesis,2009,Coupe,Yes,Petrol,2,123346 km,4,Automatic,Front
+45809760,2901,473,CHEVROLET,Cruze,2014,Sedan,Yes,Petrol,1.4,80827 km,4,Automatic,Front
+45810325,706,1138,PORSCHE,911,2013,Coupe,Yes,Petrol,3.8,64464 km,6,Automatic,Rear
+45813375,314,382,FORD,Fusion,2015,Sedan,Yes,Hybrid,2,91760 km,4,Automatic,Front
+45756975,15681,1811,LEXUS,GX 460,2010,Jeep,Yes,Petrol,4.6,275240 km,8,Automatic,4x4
+45776758,26657,-,MERCEDES-BENZ,Sprinter,2004,Microbus,No,Diesel,2.2 Turbo,300000 km,4,Manual,Rear
+45550733,10663,988,TOYOTA,Prius,2007,Hatchback,No,Petrol,1.5,318400 km,4,Automatic,Front
+44094036,12858,765,FORD,Focus SE,2015,Sedan,No,Petrol,2,91200 km,4,Automatic,Front
+45642797,1019,917,BMW,X5,2013,Jeep,Yes,Diesel,3,137802 km,6,Automatic,4x4
+45760895,549,917,BMW,535,2013,Sedan,Yes,Hybrid,3,151586 km,6,Automatic,Rear
+45742789,12858,-,KIA,Picanto,2016,Hatchback,No,Petrol,1.2,107000 km,4,Manual,Front
+45783859,15000,-,BMW,328,2008,Sedan,Yes,CNG,3,210408 km,6,Tiptronic,Rear
+45808992,85553,1156,FORD,Explorer,2017,Jeep,Yes,Petrol,2.3,100567 km,4,Automatic,Front
+45731735,44752,1091,HYUNDAI,H1,2016,Universal,Yes,Diesel,2.5,86000 km,4,Automatic,Front
+45797948,17158,687,HYUNDAI,Elantra,2010,Sedan,Yes,Petrol,1.6,122740 km,4,Automatic,Front
+45782067,12231,-,MITSUBISHI,Airtrek,2005,Jeep,No,LPG,2.4,144000 km,4,Tiptronic,4x4
+45534351,11917,11714,MERCEDES-BENZ,E 500 AMG,2003,Sedan,Yes,Petrol,5,150000 km,12,Tiptronic,Rear
+45753393,1254,-,MITSUBISHI,Lancer,1997,Sedan,No,Petrol,1.3,100000 km,4,Manual,Rear
+45624923,94,-,HONDA,FIT,2003,Hatchback,No,Petrol,1.5,178000 km,4,Variator,Front
+45726679,25591,640,SSANGYONG,Korando,2013,Jeep,Yes,Diesel,2,85704 km,4,Automatic,Front
+45803059,14897,836,HYUNDAI,Santa FE,2010,Jeep,Yes,Diesel,2,58962 km,4,Automatic,Front
+45770405,23521,779,TOYOTA,Camry,2013,Sedan,Yes,Hybrid,2.5,90000 km,4,Tiptronic,Front
+45787329,3450,-,RENAULT,Clio,1995,Hatchback,No,Petrol,1.2,50000 km,3,Manual,Front
+45763505,706,777,MAZDA,616,2014,Sedan,Yes,Petrol,2.5,0 km,4,Automatic,Front
+45767451,1019,1537,TOYOTA,Highlander,2009,Sedan,Yes,Hybrid,3.3,318358 km,6,Automatic,4x4
+45636958,16935,765,FORD,Fusion,2015,Sedan,Yes,Petrol,2,71454 km,4,Automatic,Front
+45757670,19444,781,TOYOTA,Camry,2012,Sedan,Yes,Petrol,2.5,0 km,4,Tiptronic,Front
+45733244,11604,639,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,2,346470 km,4,Automatic,Front
+45802837,51965,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,59515 km,4,Automatic,Front
+45646428,706,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,115312 km,4,Automatic,Front
+45801896,9408,-,MERCEDES-BENZ,C 220,1999,Sedan,No,Diesel,2.2 Turbo,111111 km,4,Manual,Rear
+45797732,13328,1347,HYUNDAI,H1,2008,Minivan,Yes,Diesel,2.5,74444 km,4,Automatic,Front
+45762683,17876,-,NISSAN,Serena,2012,Minivan,No,Petrol,2,143000 km,4,Tiptronic,Front
+45767013,549,2866,NISSAN,Maxima,2004,Sedan,Yes,Petrol,3.5,299709 km,6,Automatic,Front
+45732074,20071,-,TOYOTA,RAV 4,2008,Jeep,No,Petrol,2.4,135000 km,4,Automatic,4x4
+45731782,22894,862,HYUNDAI,H1,2011,Minivan,Yes,Diesel,2.5,124444 km,4,Automatic,Front
+45662111,2901,503,HONDA,Civic,2012,Sedan,Yes,Hybrid,1.5,146403 km,4,Automatic,Front
+45766794,15681,-,MITSUBISHI,Pajero,1997,Jeep,No,Petrol,2.4,142000 km,4,Automatic,4x4
+45764126,39829,1811,LEXUS,GX 460,2010,Jeep,Yes,Petrol,4.6,155821 km,8,Automatic,4x4
+45768549,706,1646,LEXUS,GX 460,2015,Jeep,Yes,Petrol,4.6,102907 km,8,Automatic,4x4
+44698379,18660,-,HYUNDAI,Sonata,2013,Sedan,Yes,Petrol,2.4,130000 km,4,Tiptronic,Front
+45770233,22580,1017,MERCEDES-BENZ,E 300,2017,Sedan,Yes,Petrol,2,50930 km,4,Automatic,Rear
+45803455,11604,639,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,2,264872 km,4,Automatic,Front
+45760030,314,259,CHEVROLET,Volt,2014,Hatchback,Yes,Hybrid,1.4,131893 km,4,Automatic,Front
+45810339,5488,751,GMC,TERRAIN,2013,Jeep,Yes,Petrol,2.4,138958 km,4,Automatic,Front
+45759786,4300,-,MERCEDES-BENZ,208,1985,Universal,No,Diesel,2.5,1111111 km,4,Manual,Rear
+45642844,18817,609,TOYOTA,Camry,2018,Sedan,Yes,Hybrid,2.5,35058 km,4,Automatic,Front
+44921934,21169,697,HONDA,Hr-v EX,2015,Jeep,No,Petrol,1.8,33330 km,4,Automatic,4x4
+45462592,9095,-,FIAT,500,2011,Coupe,No,Petrol,1.2,141000 km,4,Automatic,Front
+45634898,1568,639,VOLKSWAGEN,Jetta,2014,Sedan,Yes,Diesel,2,82392 km,4,Automatic,Front
+45777114,3136,-,SUBARU,Legacy,2005,Goods wagon,No,Petrol,2.0 Turbo,180000 km,6,Tiptronic,4x4
+45451626,17876,585,HYUNDAI,Elantra sport limited,2013,Sedan,Yes,Petrol,1.8,117920 km,4,Tiptronic,Front
+45732976,11290,891,HYUNDAI,Sonata,2016,Sedan,Yes,LPG,2,279787 km,4,Automatic,Front
+44452971,36065,1399,TOYOTA,Sienna,2010,Minivan,Yes,Petrol,3.5,227200 km,6,Tiptronic,Front
+45648000,862,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,130478 km,4,Automatic,Front
+45796845,21395,781,HYUNDAI,H1,2012,Universal,Yes,Diesel,2.5,166144 km,4,Automatic,Front
+45733140,15681,891,HYUNDAI,Sonata,2016,Sedan,Yes,LPG,2,258706 km,4,Automatic,Front
+45762282,627,475,CHEVROLET,Volt,2012,Jeep,Yes,Hybrid,1.4,188419 km,4,Automatic,Front
+45810003,40070,690,TOYOTA,Aqua,2016,Hatchback,Yes,Petrol,1.5,25807 km,4,Automatic,Front
+44875253,11917,-,MERCEDES-BENZ,A 170,2008,Hatchback,No,Petrol,1.7,180000 km,4,Automatic,Front
+45807577,72130,1079,LEXUS,NX 300,2018,Jeep,Yes,Petrol,2.0 Turbo,18918 km,4,Tiptronic,Front
+45729867,35927,640,SSANGYONG,REXTON,2013,Jeep,Yes,Diesel,2,137267 km,4,Automatic,Front
+45801397,21012,308,TOYOTA,Prius,2014,Sedan,No,Hybrid,1.8,160000 km,4,Automatic,4x4
+45765622,21012,1823,TOYOTA,Tacoma,2018,Sedan,Yes,Petrol,3.5,27358 km,6,Automatic,Front
+45781785,13172,1361,KIA,Carnival grand,2009,Minivan,Yes,Diesel,2.9,84176 km,4,Automatic,Front
+45802035,15624,707,HYUNDAI,Genesis,2011,Coupe,Yes,Petrol,2,107005 km,4,Automatic,Front
+45811318,4547,-,OPEL,Vectra,1997,Sedan,No,Petrol,1.6,15000 km,4,Manual,Front
+45751101,5488,1273,INFINITI,QX60,2015,Jeep,Yes,Petrol,3.5,124154 km,6,Automatic,4x4
+45801611,20005,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,104997 km,4,Automatic,Front
+45792460,36110,924,VOLKSWAGEN,Passat,2017,Sedan,Yes,Petrol,1.8,27728 km,6,Tiptronic,Front
+45798511,7840,-,MERCEDES-BENZ,E 240 E 240,1998,Sedan,Yes,Petrol,2.4,777777 km,6,Manual,Rear
+45765057,470,1077,MAZDA,1000,2019,Jeep,Yes,Petrol,2,11566 km,4,Automatic,4x4
+45782173,1300,-,AUDI,50,2018,Coupe,Yes,Petrol,0.5,4000 km,1,Tiptronic,Rear
+45802937,43880,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,113700 km,4,Automatic,Front
+45675386,29479,584,MERCEDES-BENZ,C 250,2014,Sedan,Yes,Petrol,1.8 Turbo,69000 km,4,Tiptronic,Rear
+45795520,17249,-,TOYOTA,Camry,2011,Sedan,Yes,Hybrid,2.5,152000 km,4,Variator,Front
+45778720,9408,-,TOYOTA,Vitz funkargo,2003,Universal,No,Petrol,1.5,181926 km,4,Automatic,4x4
+45802938,44213,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,50255 km,4,Automatic,Front
+45801304,8467,2078,BMW,325,2001,Sedan,Yes,Petrol,2.5,252800 km,6,Manual,Rear
+45808583,627,915,AUDI,A6,2014,Sedan,Yes,Petrol,3,164488 km,6,Automatic,4x4
+45395938,21950,831,FORD,Transit,2011,Goods wagon,No,Diesel,2.4 Turbo,125000 km,4,Manual,4x4
+45810208,706,475,FIAT,500,2012,Hatchback,Yes,Petrol,1.4,164574 km,4,Automatic,Front
+45766275,3136,473,CHEVROLET,Cruze,2014,Sedan,Yes,Petrol,1.4,156992 km,4,Automatic,Front
+45793851,3450,-,OPEL,Vectra,1995,Sedan,No,CNG,2,0 km,4,Manual,Front
+45805913,9408,-,MITSUBISHI,Pajero,1998,Jeep,No,Petrol,3.5 Turbo,11000 km,6,Tiptronic,4x4
+45793479,31500,-,NISSAN,Pathfinder,2010,Jeep,Yes,LPG,4,90200 km,6,Tiptronic,4x4
+43390500,20385,-,MITSUBISHI,Delica,2005,Minivan,Yes,Petrol,3,184000 km,6,Automatic,4x4
+45769518,314,1053,MERCEDES-BENZ,E 350,2014,Sedan,Yes,Diesel,3.5,149486 km,6,Automatic,4x4
+45792823,2300,-,VOLKSWAGEN,Golf,1996,Sedan,No,CNG,2,0 km,4,Manual,Front
+45776494,7840,-,MERCEDES-BENZ,Vaneo,2004,Universal,No,LPG,1.9,170000 km,4,Tiptronic,Front
+45787317,56450,-,TOYOTA,Camry Se,2018,Sedan,Yes,Petrol,2.5,25000 km,4,Tiptronic,Front
+45813281,1490,639,VOLKSWAGEN,Jetta,2014,Universal,Yes,Diesel,2,113214 km,4,Automatic,Front
+45772050,627,836,TOYOTA,Tacoma,2012,Sedan,Yes,Petrol,2.7,394069 km,4,Automatic,Rear
+45771040,314,1053,MERCEDES-BENZ,E 350,2014,Sedan,Yes,Diesel,3.5,149486 km,6,Automatic,4x4
+45788160,13172,-,HONDA,Cr-v,2002,Jeep,No,Petrol,2.4,260000 km,4,Automatic,4x4
+45776729,19757,-,NISSAN,Patrol Y60,1990,Jeep,No,Diesel,2.8 Turbo,222222 km,4,Manual,Rear
+45646578,4704,917,AUDI,A7,2013,Hatchback,Yes,Petrol,3,301707 km,6,Automatic,4x4
+45815974,706,751,HYUNDAI,Sonata,2013,Sedan,Yes,Petrol,2.4,175827 km,4,Automatic,Front
+45773662,5802,1055,MERCEDES-BENZ,E 350,2013,Sedan,Yes,Diesel,3.5,107800 km,6,Automatic,Rear
+45767823,25716,777,TOYOTA,Camry,2014,Sedan,No,Petrol,2.5,115200 km,4,Automatic,Front
+45810599,14426,642,CHEVROLET,Orlando,2012,Jeep,Yes,LPG,2,132036 km,4,Automatic,Front
+45709646,10820,-,TOYOTA,RAV 4,2001,Jeep,No,Petrol,2,91000 km,4,Automatic,4x4
+45808960,45436,1172,FORD,Explorer,2011,Jeep,Yes,Petrol,3.5,129177 km,4,Automatic,Front
+45816333,11917,893,HYUNDAI,I30,2008,Hatchback,No,Diesel,1.6,201000 km,4,Manual,Front
+45802892,41281,765,HYUNDAI,Santa FE,2015,Jeep,Yes,Diesel,2,185811 km,4,Automatic,Front
+45805683,4391,-,NISSAN,Altima,1998,Sedan,No,Petrol,2.4,358400 km,4,Manual,Front
+45810372,3058,1872,PORSCHE,Cayenne,2018,Sedan,Yes,Petrol,3.6,28968 km,6,Automatic,4x4
+45791663,3700,-,ALFA ROMEO,147,2001,Coupe,Yes,Petrol,1.8,240000 km,4,Manual,Front
+45816588,15681,-,SUZUKI,Grand Vitara,2008,Jeep,No,Petrol,1.6,98000 km,4,Automatic,4x4
+45813342,6586,645,LEXUS,CT 200h,2011,Hatchback,Yes,Hybrid,1.8,122302 km,4,Automatic,Front
