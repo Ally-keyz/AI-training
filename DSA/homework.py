@@ -6,9 +6,10 @@
 # Write a function that checks if two strings are anagrams (same letters, different order).
 # 5. Find Missing Number from 1 to N (O(n))
 #🔎 Given a list with numbers from 1 to n, but with one number missing, return the missing number.
+
+
+
 # 1 count frequencies of items in an array O(n) complexity
-
-
 
 def counter(array):
     if len(array) < 1:
@@ -128,6 +129,36 @@ def anargm(str1,str2):
 
 
 print(anargm("hello","olleh"))  
+
+
+#find the missing value from an array of intered numbers from 1 to n
+
+def check(nums):
+    if len(nums) < 1:
+        return None
+    #sort the array for more accuracy
+    array_sorted  = sorted(nums)
+    values = set()
+    missing_num = set()
+
+    for i in range(1,array_sorted[-1]):
+        if i not in  array_sorted:
+            missing_num.add(i)
+        else:
+            values.add(i)
+
+    return missing_num        
+
+
+print(check([1,3,5,6,7]))
+
+
+
+    
+    
+
+        
+
               
 
 
