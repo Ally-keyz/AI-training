@@ -50,7 +50,9 @@ def check(nums):
 
 print(check([1, 2, 3, 4, 2]))
 
-#cheking if the list contains duplicates usin O(n2)
+
+ #cheking if the list contains duplicates usin O(n2)
+
 
 def Check01(nums):
     if len(nums) < 1:
@@ -105,7 +107,7 @@ def two_sum01(nums,target):
 
 print(two_sum01([2,7,11,15],9))   
 
-# usin O(n2) complexity to return all the posible pairs that would add up to the target
+# using O(n2) complexity to return all the posible pairs that would add up to the target
 def pair_up(nums,target):
     if len(nums) < 1:
         return None

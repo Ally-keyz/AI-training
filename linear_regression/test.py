@@ -1,10 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import StandardScaler , LabelEncoder
+from sklearn.preprocessing import StandardScaler , LabelEncoder , OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score 
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
 from sklearn.neural_network import MLPRegressor
 
 data  = pd.read_csv("work.csv")
@@ -15,6 +15,7 @@ data  = pd.read_csv("work.csv")
 #remove unwanted columns
 data  = data.drop(columns="ID")
 #print(data.head())
+
 
 #clean some dummy data
 data["Levy"] = data["Levy"].replace('-','0')
@@ -28,7 +29,8 @@ data["Mileage"] = data["Mileage"].astype(int)
 
 #clean the data also at engine volume
 data["Engine volume"] = data["Engine volume"].str.replace(r'[^\d.]+', '', regex=True)
-data["Engine volume"] = data["Engine volume"].astype(float)
+data["Engine volume"] = data["Engine volume"].astype(float) 
+
 
 
 #define the features and the target
@@ -72,8 +74,10 @@ model =  RandomForestRegressor(
     max_depth=20,
     min_samples_split=5,
     min_samples_leaf=2,
-    random_state=32
+    random_state=32,
+    
 )
+
 model.fit(X_train,Y_train)
 
 Y_pred = model.predict(X_test)
@@ -84,6 +88,7 @@ print(f"Model accuracy: {r2_score(Y_test,Y_pred)}")
 #draw a distribution to show the visualisation
 
 plt.scatter(Y_test,Y_pred,color="red")
+plt.plot(Y_pred,Y_pred,'black')
 plt.xlabel("tests")
 plt.ylabel("prediction")
 plt.show()
