@@ -40,6 +40,22 @@ def check2(nums,k):
 print(check2([-2, -1, 2, 1],1))
 
 
+# repeat the daily challenge 
+def main(nums,target):
+    if len(nums) < 1:
+        return None
+    
+    count = 0
+    for num in range(len(nums)):
+        count_sum = 0
+        for item in range(num , len(nums)):
+            count_sum += nums[item]
+
+            if count_sum == target:
+                count += 1
+
+    return count
+            
 
 
     
