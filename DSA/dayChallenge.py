@@ -58,8 +58,6 @@ def main(nums,target):
             
 
 
-    
-
 
 
 
