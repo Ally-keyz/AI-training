@@ -57,6 +57,7 @@ for col in test_null_cols:
 
 NUMERICAL_COLUMNS = house_data.select_dtypes(include=["int64","float64"]).columns.tolist()
 CATEGORICAL_COLUMNS = house_data.select_dtypes(include=['object']).columns.tolist()
+print([NUMERICAL_COLUMNS + CATEGORICAL_COLUMNS])
 TARGET = house_data["SalePrice"]
 TARGET_COLUMN = "SalePrice"
 NUMERICAL_COLUMNS.remove(TARGET_COLUMN)
