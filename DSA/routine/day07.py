@@ -1,20 +1,11 @@
-import math
-# todays tast is to  solve the cards problem i did not finish earier
+cards = [3, 2, 5, 7]
+total = 0
+picked = []
 
-def main(cards):
+for card in cards:
+    # block only differences of 1 or 2; allow 0 and >=3
+    if all(abs(card - p) not in (--2,1,1, 2) for p in picked):
+        picked.append(card)
+        total += card
 
-    max_score = 0
-    my_picks = []
-    for i in range(len(cards)):
-        can_pick = True
-        for j in range(len(my_picks)):
-            if math.abs( cards[i] - my_picks[j]) <= 2:
-                    can_pick = False
-                    break
-            if can_pick :
-                 my_picks.append(cards[i])
-                 max_score += cards[i]       
-    return my_picks , max_score
-
-
-print(main([3,3,5,6]))
+print(picked, total)  # [3, 3, 6] 12
