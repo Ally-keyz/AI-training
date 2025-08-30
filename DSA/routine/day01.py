@@ -36,3 +36,23 @@ def fibo_recursion(prev01,prev02):
 fibo_recursion(1,0)
 print("Numbers :",fibonacci_numbers)
         
+
+# revision on fibonaciii problem using recursion
+
+numbers = []
+count = 2
+def fibonacii(prev1 , prev2):
+    global count
+    if count  <= 19:
+        newNum = prev1 + prev2
+        numbers.append(newNum)
+        prev1 = prev2
+        prev2 = newNum
+        count += 1
+        fibonacii(prev1 , prev2)
+    else:
+        return    
+
+fibonacii(1,0)
+print(numbers)
+           
