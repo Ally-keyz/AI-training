@@ -37,7 +37,7 @@ fibo_recursion(1,0)
 print("Numbers :",fibonacci_numbers)
         
 
-# revision on fibonaciii problem using recursion
+# revision on fibonacii problem using recursion
 
 numbers = []
 count = 2
